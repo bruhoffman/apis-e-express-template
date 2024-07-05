@@ -21,7 +21,7 @@ export const courses: TCourse[] = [
     }
 ]
 
-export const estudents: TStudent[] = [
+export const students: TStudent[] = [
     {
         id: "001",
         name: "Juliana",
